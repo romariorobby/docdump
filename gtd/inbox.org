@@ -1,0 +1,4 @@
+#+TITLE: Inbox
+
+* TODO This 1st task of inbox
+** TODO This 2nd task of inbox

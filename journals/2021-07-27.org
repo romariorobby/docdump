@@ -1,0 +1,14 @@
+:PROPERTIES:
+  :ID:       88f459be-4742-4f8a-aec9-f22dced27140
+  :END:
+
+* This is from [[id:f1c12191-82f4-425c-a794-401be7e609f0][logseq]]
+* This is from org mode
+:PROPERTIES:
+:collapsed: true
+:END:
+** Hello
+* Another from logseq
+* Another from Org
+* Another from logseq
+*

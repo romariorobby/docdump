@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       043f8576-f6e7-4f9a-af62-a05546282297
+:END:
+#+title: This is more like
+logseq
+[[id:88f459be-4742-4f8a-aec9-f22dced27140][journals/2021-07-27.org]]
